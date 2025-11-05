@@ -1,0 +1,7 @@
+{
+  "name": "AI Birthday Hat",
+  "description": "A fun web app that uses your webcam to detect your face and automatically place a virtual birthday hat on your head.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
